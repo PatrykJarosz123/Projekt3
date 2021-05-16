@@ -22,7 +22,7 @@ Film "Grand Budapest Hotel" opowiada o przygodach Gustava H.,  legendarnego kons
 
  
 
-<img src="https://media.teleman.pl/photos/Wszyscy-Maja-Sie-Dobrze-1990.jpg ">
+<img src="https://fwcdn.pl/webv/22/05/22205/z01.22205.4.jpg">
 
 [->Link do zdjęcia<-](https://media.teleman.pl/photos/Wszyscy-Maja-Sie-Dobrze-1990.jpg )
 
@@ -46,7 +46,7 @@ Akcja filmu rozgrywa się w latach 50tych XX wieku na wyspie Zatoki Bostońskiej
 
 
 
-<img src="https://fwcdn.pl/fph/99/78/209978/105882.1.jpg ">
+<img src="https://d-tm.ppstatic.pl/kadry/4b/96/d38e83c076cd44d49cef117a7ac6.1000.jpg">
 
 [->Link do zdjęcia<-](https://fwcdn.pl/fph/99/78/209978/105882.1.jpg )
 
@@ -58,7 +58,7 @@ Film ukazuje prywatne życie i publiczne wyzyski wyjętego spod prawa Amerykanin
 
 
 
-<img src="https://d-tm.ppstatic.pl/kadry/d9/90/aae257a851055170d9fd0996c30d.1000.jpg ">
+<img src="https://www.slashfilm.com/wp/wp-content/images/thereader.jpg">
 
 [->Link do zdjęcia<-](https://d-tm.ppstatic.pl/kadry/d9/90/aae257a851055170d9fd0996c30d.1000.jpg )
 
